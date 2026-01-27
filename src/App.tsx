@@ -140,7 +140,7 @@ function App() {
               {[
                 {
                   title: 'Schutzprüfungen',
-                  description: 'Fachgerechte Schutzprüfungen Dank meiner Omicron CMC 500.'
+                  description: 'Fachgerechte Schutzprüfungen dank meiner Omicron CMC 500.'
                 },
                 {
                   title: 'Wandlerprüfungen',
@@ -148,7 +148,7 @@ function App() {
                 },
                 {
                   title: 'Umbau Huawei-Container Trafostationen',
-                  description: 'Einbau- und Prüfung aller notwendigen Komponenten.'
+                  description: 'Einbau und Prüfung aller notwendigen Komponenten.'
                 },
                 {
                   title: 'Restarbeiten',
@@ -322,7 +322,7 @@ function App() {
               <div>
                 <h3 className="font-semibold text-lg text-primary mb-2">Umsatzsteuer-ID</h3>
                 <p className="text-gray-700">
-                  Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz:<br />
+                  Umsatzsteuer-Identifikationsnummer gemäß § 27a Umsatzsteuergesetz:<br />
                   DE458116095
                 </p>
               </div>
